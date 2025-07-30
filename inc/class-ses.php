@@ -12,6 +12,8 @@ class SES {
 	private $key;
 	private $secret;
 	private $config_set;
+	private $region;
+	private $client;
 
 	/**
 	 *
